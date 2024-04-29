@@ -11,13 +11,9 @@ Welcome to my Github page! I am Jinyuan!
 
 
 #### 🌱 Things I am currently working on: 
-- RecSys
-- MLOps
-- Python
-- C++
-- Scala
-- OCaml
-
+- Machine Learning
+- Formal method: Alloy/TLA+
+- Observablity: eBPF
 
 
 #### :computer: Programming languages and tools: 
