@@ -11,7 +11,7 @@ Welcome to my Github page! I am Luke!
 
 
 #### 🌱 Things I am currently working on: 
-- Machine learning system
+- ML/Agentic system
 - Formal method: Alloy/TLA+
 - Observablity: eBPF
 
